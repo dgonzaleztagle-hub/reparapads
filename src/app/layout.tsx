@@ -80,7 +80,7 @@ const faqJsonLd = {
             "name": "¿Cuál es el valor de la reparación por cada pad o pieza?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Contamos con una tarifa plana de reparación de aproximadamente $25.000 por pieza (con variaciones según complejidad), ofreciendo una solución accesible y profesional para todos los músicos."
+                "text": "Contamos con una tarifa plana de reparación de aproximadamente $20.000 por pieza (con variaciones según complejidad), ofreciendo una solución accesible y profesional para todos los músicos."
             }
         },
         {
