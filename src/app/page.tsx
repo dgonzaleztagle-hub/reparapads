@@ -67,7 +67,7 @@ export default function ReparpadsPage() {
                         ¿Tus pads fallan? En Reparpads lo solucionamos en tiempo récord. <br />
                         Especialistas en Roland, Yamaha, Alesis y más. Reparación de bombos, hi-hats, platillos y módulos.
                         <div className="mt-4 flex flex-col md:flex-row items-center justify-center gap-4 text-[#F59E0B] font-bold text-xl uppercase tracking-tighter">
-                            <span className="flex items-center gap-2"><span className="text-white text-xs opacity-50">VALOR:</span> $25.000 / PIEZA</span>
+                            <span className="flex items-center gap-2"><span className="text-white text-xs opacity-50">VALOR:</span> $20.000 / PIEZA</span>
                             <span className="hidden md:block opacity-30 text-white">|</span>
                             <span className="flex items-center gap-2"><span className="text-white text-xs opacity-50">TIEMPO:</span> 24 HORAS EXPRESS</span>
                         </div>
