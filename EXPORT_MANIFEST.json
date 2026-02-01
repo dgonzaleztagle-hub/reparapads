@@ -1,0 +1,11 @@
+{
+  "client": "reparpads",
+  "exportedAt": "2026-02-01T02:29:16.002Z",
+  "version": "3.0.0",
+  "stats": {
+    "filesCount": 11,
+    "assetsCount": 7,
+    "dependencies": 6,
+    "devDependencies": 7
+  }
+}
