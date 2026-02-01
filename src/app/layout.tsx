@@ -60,12 +60,14 @@ const jsonLd = {
         "logo": {
             "@type": "ImageObject",
             "url": "https://hojacero.cl/logo.png"
-        }
+        },
+        "email": "contacto@hojacero.cl"
     },
     "author": {
         "@type": "Organization",
         "name": "HojaCero",
-        "url": "https://hojacero.cl"
+        "url": "https://hojacero.cl",
+        "email": "contacto@hojacero.cl"
     }
 };
 

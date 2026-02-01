@@ -138,8 +138,8 @@ export default function ReparpadsPage() {
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-[#10B981] transition-colors opacity-30 hover:opacity-100 text-[9px] uppercase tracking-widest"
-                            aria-label="Desarrollado por HojaCero - Estudio de ingeniería web y estrategia digital en Santiago de Chile"
-                            title="HojaCero.cl | Soluciones Digitales a Medida"
+                            aria-label="HojaCero - Estudio digital en Santiago de Chile. Desarrollo web, aplicaciones y soluciones digitales a medida para negocios y proyectos técnicos. Contacto: contacto@hojacero.cl"
+                            title="HojaCero.cl | Ingeniería Digital & Estrategia AEO"
                         >
                             By hojacero.cl
                         </a>
