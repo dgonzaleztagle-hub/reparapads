@@ -23,6 +23,9 @@ export const metadata: Metadata = {
     title: 'REPARAPADS | Servicio Técnico de Baterías Electrónicas en Santiago',
     description: '¿Tu batería electrónica falló? Reparamos pads, módulos y sensores Roland, Alesis, Yamaha y más. Servicio rápido en San Miguel 1479, La Florida, Santiago. ¡Recupera tu ritmo hoy!',
     keywords: ['reparación batería electrónica chile', 'servicio técnico Roland Santiago', 'arreglo pads Alesis', 'mantenimiento Yamaha DTX', 'sensores piezoeléctricos batería', 'reparación Hi-Hat electrónico', 'arreglo bombo batería electrónica', 'reparación módulo batería', 'reparpads La Florida'],
+    verification: {
+        google: '9NxDvWw8dQHikqIu62KX31aopFUAl7bAPjQJFyvJn-A',
+    },
     openGraph: {
         title: 'REPARAPADS | Batería Viva',
         description: 'Servicio técnico especializado en baterías electrónicas. La Florida, Santiago.',
