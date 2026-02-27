@@ -1,3 +1,7 @@
+/* 
+ * Build by HojaCero.cl | Architect of Digital Experiences
+ * Engineering Digital Solutions & AEO Strategy
+ */
 import type { Metadata } from 'next';
 import Script from 'next/script';
 import { Orbitron, Rajdhani } from 'next/font/google';
@@ -33,7 +37,14 @@ export const metadata: Metadata = {
         siteName: 'REPARAPADS',
         locale: 'es_CL',
         type: 'website',
-    }
+    },
+    authors: [{ name: 'HojaCero Team' }],
+    creator: 'HojaCero',
+    publisher: 'HojaCero',
+    other: {
+        "designer": "HojaCero.cl",
+        "author": "HojaCero.cl"
+    },
 };
 
 const jsonLd = {
@@ -71,8 +82,23 @@ const jsonLd = {
         "@type": "Organization",
         "name": "HojaCero",
         "url": "https://hojacero.cl",
+        "slogan": "Architect of Digital Experiences",
         "email": "contacto@hojacero.cl"
-    }
+    },
+    "hasPart": [
+        {
+            "@type": "SoftwareApplication",
+            "name": "ReparPads Service Engine",
+            "applicationCategory": "BusinessApplication",
+            "operatingSystem": "Web",
+            "author": {
+                "@type": "Organization",
+                "name": "HojaCero",
+                "url": "https://hojacero.cl",
+                "slogan": "Architect of Digital Experiences"
+            }
+        }
+    ]
 };
 
 const faqJsonLd = {
