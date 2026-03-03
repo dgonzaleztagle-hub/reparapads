@@ -68,35 +68,15 @@ const jsonLd = {
         "@type": "Country",
         "name": "Chile"
     },
-    "publisher": {
-        "@type": "Organization",
-        "name": "HojaCero",
-        "url": "https://hojacero.cl",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "https://hojacero.cl/logo.png"
-        },
-        "email": "contacto@hojacero.cl"
-    },
-    "author": {
-        "@type": "Organization",
-        "name": "HojaCero",
-        "url": "https://hojacero.cl",
-        "slogan": "Architect of Digital Experiences",
-        "email": "contacto@hojacero.cl"
-    },
+    "publisher": { "@id": "https://hojacero.cl/#organization" },
+    "author": { "@id": "https://hojacero.cl/#organization" },
     "hasPart": [
         {
             "@type": "SoftwareApplication",
             "name": "ReparPads Service Engine",
             "applicationCategory": "BusinessApplication",
             "operatingSystem": "Web",
-            "author": {
-                "@type": "Organization",
-                "name": "HojaCero",
-                "url": "https://hojacero.cl",
-                "slogan": "Architect of Digital Experiences"
-            }
+            "author": { "@id": "https://hojacero.cl/#organization" }
         }
     ]
 };
